@@ -11,8 +11,11 @@ Welcome to **AI-Powered College Management System** – a revolutionary **Django
 Managing college operations efficiently can be challenging. Our system simplifies the process with **AI-driven automation**, **grade prediction models**, and **face recognition-based attendance tracking**.
 
 🔹 **AI Chatbot** 🤖 - Assists students and faculty with instant responses.
+
 🔹 **Grade Prediction** 📊 - Uses ML models to predict student performance.
+
 🔹 **Face Recognition** 🏫 - Automates attendance marking with facial recognition.
+
 🔹 **Admin Dashboard** 📋 - Provides complete college insights in one place.
 
 

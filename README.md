@@ -27,6 +27,8 @@ Managing college activities, such as student records, faculty details, event sch
 
 ## 🎯 **Why This Project?**
 
+![AI Chatbot](https://img.freepik.com/premium-vector/back-school-illustration_1302918-36262.jpg?w=1060)
+
 Managing college operations efficiently can be challenging. Our system simplifies the process with **AI-driven automation**, **grade prediction models**, and **face recognition-based attendance tracking**.
 
 🔹 **AI Chatbot** 🤖 - Assists students and faculty with instant responses.

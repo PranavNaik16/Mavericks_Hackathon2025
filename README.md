@@ -62,7 +62,7 @@ Django REST Framework (API handling)
 ### **AI & Machine Learning 🤖**
 Scikit-learn (Grade Prediction)
 
-OpenCV & DeepFace (Face Recognition for Attendance)
+OpenCV, Cv2 & DeepFace (Face Recognition for Attendance)
 
 Llama/OpenAI api (AI Chatbot for Student Support)
 

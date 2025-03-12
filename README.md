@@ -31,20 +31,25 @@ We have utilized **cutting-edge technologies** to build this robust system:
 
 ### **Backend 🛠️**
 Django (Python Framework)
+
 Django REST Framework (API handling)
 
 
 
 ### **AI & Machine Learning 🤖**
 Scikit-learn (Grade Prediction)
+
 OpenCV & DeepFace (Face Recognition for Attendance)
+
 Llama/OpenAI api (AI Chatbot for Student Support)
 
 
 
 ### **Frontend & UI 🎨**
 React.js (User Interface)
+
 Node.js (Backend communication)
+
 Tailwind CSS (Styling)
 
 ---

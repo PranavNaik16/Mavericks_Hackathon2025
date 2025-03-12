@@ -24,24 +24,22 @@ Managing college operations efficiently can be challenging. Our system simplifie
 We have utilized **cutting-edge technologies** to build this robust system:
 
 ### **Backend 🛠️**
-
+Django (Python Framework)
+Django REST Framework (API handling)
 
 
 
 ### **AI & Machine Learning 🤖**
-
+Scikit-learn (Grade Prediction)
+OpenCV & DeepFace (Face Recognition for Attendance)
+Llama/OpenAI api (AI Chatbot for Student Support)
 
 
 
 ### **Frontend & UI 🎨**
-
-
-
-
-
-### **Database 💾**
-
-
+React.js (User Interface)
+Node.js (Backend communication)
+Tailwind CSS (Styling)
 
 ---
 
@@ -63,22 +61,17 @@ We have utilized **cutting-edge technologies** to build this robust system:
 
 ---
 
-## 📜 **License**
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🔗 **Get in Touch**
 
 👤 **Team Mavericks**\
-📧 **Email:** [support@teammavericks.com](mailto\:support@teammavericks.com)\
-🌍 **Website:** [www.teammavericks.com](https://www.teammavericks.com)\
-📌 **LinkedIn:** [Team Mavericks](https://linkedin.com/in/teammavericks)
+  **Members:** Abhilasha Chavan , Pranav Naik
+  
+📧 **Email:** [Abhilasha Chavan](abhilashasc2004@gmail.com)
+              [Pranav Naik](pranavnaik355@gmail.com)
+          
+📌 **LinkedIn:** [Pranav Naik](https://www.linkedin.com/in/pranav-naik-07503a264/)
+                 [Abhilasha Chavan](http://www.linkedin.com/in/abhilasha-chavan-951202348)
 
----
-
-🔥 **If you like this project, don't forget to star ⭐ this repository!**
 
 
 

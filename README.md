@@ -7,6 +7,24 @@ Welcome to **AI-Powered College Management System** – a revolutionary **Django
 
 ---
 
+**Project Title:** Wildfire Prediction Model
+
+**Topic:** **AI-Powered College Management System**
+
+**Problem Statement:**
+Managing college activities, such as student records, faculty details, event scheduling, and fee payments, is often done manually or through scattered systems, leading to inefficiency and confusion.
+
+**Challenge:** Develop a College Management Website that centralizes student and faculty data, attendance tracking and other administrative tasks in one place. The system should have separate portals for students, faculty, and administrators, ensuring smooth communication and workflow.
+
+**Expected Features:**
+•	Student & faculty login with role-based access
+•	Attendance tracking system
+•	Assignment & grade tracking
+•	Notice board for important announcements
+
+
+---
+
 ## 🎯 **Why This Project?**
 
 Managing college operations efficiently can be challenging. Our system simplifies the process with **AI-driven automation**, **grade prediction models**, and **face recognition-based attendance tracking**.

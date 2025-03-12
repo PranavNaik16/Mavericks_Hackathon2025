@@ -19,6 +19,12 @@ Managing college operations efficiently can be challenging. Our system simplifie
 
 ---
 
+## 🎥 **Live Demo Presentation**
+
+📺 **Watch Our Project in Action**: [Click Here](https://youtu.be/nTHgzEodljg))
+
+---
+
 ## 🚀 **Tech Stack Used**
 
 We have utilized **cutting-edge technologies** to build this robust system:
@@ -43,20 +49,17 @@ Tailwind CSS (Styling)
 
 ---
 
-## 🎥 **Live Demo Presentation**
-
-📺 **Watch Our Project in Action**: [Click Here](https://www.youtube.com/your-demo-link)
-
-
-
----
 
 ## ⚡ **How It Works?**
 
 1️⃣ **Students & Faculty** can **log in** and interact with the AI chatbot for information.
+
 2️⃣ **Admin Dashboard** provides real-time insights into student records, grades, and attendance.
+
 3️⃣ **Face Recognition System** captures and verifies students for attendance tracking.
+
 4️⃣ **Machine Learning Model** predicts student grades based on historical performance.
+
 5️⃣ **User-friendly interface** ensures smooth and easy navigation for all users.
 
 ---

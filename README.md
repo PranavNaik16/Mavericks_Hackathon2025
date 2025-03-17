@@ -7,8 +7,6 @@ Welcome to **AI-Powered College Management System** – a revolutionary **Django
 
 ---
 
-**Project Title:** Wildfire Prediction Model
-
 **Topic:** **AI-Powered College Management System**
 
 **Problem Statement:**
